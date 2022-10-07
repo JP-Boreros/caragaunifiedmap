@@ -1,0 +1,1 @@
+var json_Geotag_12 = {"type":"FeatureCollection","name":"Geotag_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Geotag","Folder":"C:\\RLGM/pic.jpg"},"geometry":{"type":"Point","coordinates":[125.976977937386366,8.393496983208891]}}]}
